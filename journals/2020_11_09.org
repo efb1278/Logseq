@@ -1,3 +1,264 @@
 #+TITLE: Nov 9th, 2020
 
-** 
+** H0	MYOB BASLINK V5.0.0	PLUS	2014.4.16	N
+H2	QUARTERLY	ACCRUAL	DERIVED FROM ACCOUNTS	False	0	0	1	0	False
+H3	QUARTERLY	CASH
+H4	QUARTERLY	ACCRUAL	1	0	0
+H7	QUARTERLY	1344
+D0	CAP		GOODS & SERVICES TAX			10					
+D0	GST		GOODS & SERVICES TAX			10					
+D0	FRE		GOODS & SERVICES TAX			0					
+D0	INP		GOODS & SERVICES TAX			0					
+D0	N-T		GOODS & SERVICES TAX			0					
+D0	WEG		GOODS & SERVICES TAX			12.9					
+D0	WST		SALES TAX			22					
+D0	WET		SALES TAX			29					
+D0	GNR		INPUT TAXED			0					
+D0	ABN		NO ABN/TFN			-49					
+D0	VWH		VOLUNTARY WITHHOLDINGS			-20					
+D0	LCT		LUXURY CAR TAX			25					
+D0	IMP		IMPORT DUTY			5					
+D1	ABN		NO ABN/TFN			-49			
+D1	VWH		VOLUNTARY WITHHOLDINGS			-20			
+D2	Advance			
+D2	Allowance			
+D2	Back Pay			
+D2	Base Hourly			
+D2	Base Salary			
+D2	Base hourly			
+D2	Bonus			
+D2	CDEP Payments			
+D2	Casual Training and placement 1			
+D2	Commission			
+D2	Holiday Leave Loading			
+D2	Holiday Pay			
+D2	Long Service Leave			
+D2	New Wages Category			
+D2	Overtime (1.5x)			
+D2	Overtime (2x)			
+D2	Sick Pay			
+D2	TIL taken			
+D2	Travel Allowance			
+D2	Unused Holiday Pay			
+D2	Unused Long Service Leave			
+D2	Workers Compensation			
+D2	Advance TA			
+D2	Child support liability Jason			
+D2	Overpayment			
+D2	Petty Cash Deduction			
+D2	PAYG Withholding			
+D2	Salary Sacrifice			
+D3	1-0040			
+D3	1-1001			
+D3	1-1110			
+D3	1-1120			
+D3	1-1130			
+D3	1-1150			
+D3	1-1160			
+D3	1-1170			
+D3	1-1180			
+D3	1-1190			
+D3	1-1191			
+D3	1-1200			
+D3	1-1210			
+D3	1-1220			
+D3	1-1225			
+D3	1-1300			
+D3	1-1911			
+D3	1-1960			
+D3	1-1970			
+D3	1-2100			
+D3	1-2200			
+D3	1-2300			
+D3	1-3110			
+D3	1-3120			
+D3	1-3210			
+D3	1-3220			
+D3	1-3310			
+D3	1-3320			
+D3	1-3410			
+D3	1-3420			
+D3	1-3510			
+D3	1-3511			
+D3	1-3600			
+D3	1-3700			
+D3	1-4000			
+D3	2-1043			
+D3	2-1110			
+D3	2-1120			
+D3	2-1130			
+D3	2-1140			
+D3	2-1200			
+D3	2-1205			
+D3	2-1210			
+D3	2-1310			
+D3	2-1330			
+D3	2-1335			
+D3	2-1336			
+D3	2-1345			
+D3	2-1350			
+D3	2-1355			
+D3	2-1360			
+D3	2-1370			
+D3	2-1380			
+D3	2-1390			
+D3	2-1410			
+D3	2-1420			
+D3	2-1430			
+D3	2-1440			
+D3	2-1450			
+D3	2-1460			
+D3	2-1470			
+D3	2-1480			
+D3	2-1600			
+D3	2-1700			
+D3	2-2100			
+D3	2-2200			
+D3	2-3000			
+D3	2-3100			
+D3	3-1100			
+D3	3-1200			
+D3	3-1300			
+D3	3-8000			
+D3	3-9999			
+D3	4-0010			
+D3	4-1001			
+D3	4-1002			
+D3	4-1003			
+D3	4-1004			
+D3	4-1005			
+D3	4-1006			
+D3	4-1007			
+D3	4-1008			
+D3	4-1009			
+D3	4-1020			
+D3	4-1040			
+D3	4-1050			
+D3	4-1060			
+D3	4-1070			
+D3	4-1080			
+D3	4-1081			
+D3	4-1082			
+D3	4-1083			
+D3	4-1084			
+D3	4-1085			
+D3	4-1086			
+D3	4-1087			
+D3	4-1088			
+D3	4-1089			
+D3	4-1090			
+D3	4-1091			
+D3	4-2000			
+D3	4-4084			
+D3	4-4085			
+D3	4-4086			
+D3	4-4087			
+D3	4-8000			
+D3	4-9999			
+D3	5-1000			
+D3	5-1001			
+D3	5-2000			
+D3	5-2100			
+D3	5-3000			
+D3	5-3500			
+D3	5-3600			
+D3	5-4000			
+D3	5-4100			
+D3	5-5000			
+D3	5-6000			
+D3	5-7000			
+D3	5-8000			
+D3	6-0001			
+D3	6-0002			
+D3	6-0003			
+D3	6-0004			
+D3	6-0005			
+D3	6-0006			
+D3	6-0007			
+D3	6-0008			
+D3	6-0009			
+D3	6-0010			
+D3	6-0011			
+D3	6-0012			
+D3	6-0013			
+D3	6-0014			
+D3	6-0015			
+D3	6-0016			
+D3	6-0017			
+D3	6-0018			
+D3	6-0019			
+D3	6-0020			
+D3	6-0021			
+D3	6-0022			
+D3	6-0023			
+D3	6-0024			
+D3	6-0025			
+D3	6-0026			
+D3	6-0027			
+D3	6-0028			
+D3	6-0029			
+D3	6-0030			
+D3	6-0031			
+D3	6-0032			
+D3	6-0033			
+D3	6-0034			
+D3	6-0035			
+D3	6-0036			
+D3	6-0037			
+D3	6-0038			
+D3	6-0039			
+D3	6-0040			
+D3	6-0041			
+D3	6-0042			
+D3	6-0043			
+D3	6-0044			
+D3	6-0045			
+D3	6-0046			
+D3	6-0047			
+D3	6-1700			
+D3	6-2210			
+D3	6-2211			
+D3	6-2212			
+D3	6-2300			
+D3	6-2302			
+D3	6-2303			
+D3	6-2701			
+D3	6-2702			
+D3	6-4000			
+D3	6-6400			
+D3	6-7000			
+D3	8-1000			
+D3	8-2000			
+D3	9-1000			
+D3	9-1050			
+D3	9-2000			
+D3	9-8000			
+D3	9-9999			
+D0	CAP		GOODS & SERVICES TAX			10					
+D0	GST		GOODS & SERVICES TAX			10					
+D0	FRE		GOODS & SERVICES TAX			0					
+D0	INP		GOODS & SERVICES TAX			0					
+D0	N-T		GOODS & SERVICES TAX			0					
+D0	WEG		GOODS & SERVICES TAX			12.9					
+D0	WST		SALES TAX			22					
+D0	WET		SALES TAX			29					
+D0	GNR		INPUT TAXED			0					
+D0	ABN		NO ABN/TFN			-49					
+D0	VWH		VOLUNTARY WITHHOLDINGS			-20					
+D0	LCT		LUXURY CAR TAX			25					
+D0	IMP		IMPORT DUTY			5					
+L0	G1	GST10	D0
+L0	G1	FRE0	D0
+L0	G1	INP0	D0
+L0	G3	FRE0	D0
+L0	G4	INP0	D0
+L0	G10	CAP10	D0
+L0	G11	GST10	D0
+L0	W1	Base Hourly	D2
+L0	W1	Base Salary	D2
+L0	W1	Base hourly	D2
+L0	W1	Holiday Leave Loading	D2
+L0	W1	Holiday Pay	D2
+L0	W1	Sick Pay	D2
+L0	W1	Travel Allowance	D2
+L0	W2	PAYG Withholding	D2
